@@ -1,0 +1,108 @@
+aid: splice
+name: Splice
+description: >-
+  Splice is a New York City-based music creation platform founded in 2013 by
+  Steve Martocci and Matt Aimonetti that operates a royalty-free sample
+  marketplace, a rent-to-own plugin store, and a growing suite of in-house
+  instruments, AI tools, and DAW integrations for producers and beatmakers.
+  Splice Sounds offers a credit-based subscription giving access to millions
+  of cleared samples, loops, presets, and MIDI; Splice INSTRUMENT is the
+  company's virtual instrument with free monthly preset drops; Astra is a
+  Splice-built hybrid synthesizer covering virtual analog, wavetable,
+  sampling, granular, and FM synthesis; Beatmaker is its drum-machine
+  instrument; and Bridge is a free plugin that surfaces the Splice Sounds
+  catalog directly inside Ableton Live, Studio One, Pro Tools, and Studio
+  Pro with automatic key and tempo matching. Splice has also rolled out
+  generative AI features including Create Mode (build "Stacks" from any
+  loop), Variations (regenerate any Splice sample with creator
+  compensation), Craft (turn catalog sounds into playable instruments inside
+  INSTRUMENT), and an upcoming Magic Fit (harmonic/rhythmic auto-matching
+  to a session), with an announced ElevenLabs partnership for next-gen AI
+  music tools. The company acquired Superpowered and Audiaire in 2020 and
+  Spitfire Audio in 2025, and operates a rent-to-own marketplace of 130+
+  third-party plugins (Serum 2, V Collection, Abbey Road, etc.). Splice
+  does not publish a public developer API, SDK, or webhook surface; the
+  business is a consumer/prosumer SaaS for music creators, distributed via
+  desktop app, mobile app, and DAW plugin integrations rather than a
+  programmable platform.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Music
+  - Music Production
+  - Sample Marketplace
+  - Royalty Free Samples
+  - Loops
+  - Presets
+  - MIDI
+  - Virtual Instruments
+  - Synthesizers
+  - Drum Machines
+  - DAW Integrations
+  - Plugins
+  - Rent To Own
+  - Generative AI
+  - AI Music
+  - Beatmaking
+  - Creator Tools
+  - Consumer SaaS
+  - Subscription
+url: https://raw.githubusercontent.com/api-evangelist/splice/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://splice.com
+  - type: About
+    url: https://splice.com/about
+  - type: Innovation
+    url: https://splice.com/innovation
+  - type: Tools
+    url: https://splice.com/tools
+  - type: Sounds
+    url: https://splice.com/sounds
+  - type: CreateMode
+    url: https://splice.com/sounds/create
+  - type: Instrument
+    url: https://splice.com/instrument
+  - type: Astra
+    url: https://tools.splice.com/astra
+  - type: Bridge
+    url: https://splice.com/tools/bridge
+  - type: DesktopApp
+    url: https://splice.com/tools/desktop
+  - type: MobileApp
+    url: https://splice.com/tools/mobile
+  - type: Plugins
+    url: https://splice.com/plugins
+  - type: Pricing
+    url: https://splice.com/pricing
+  - type: AbletonIntegration
+    url: https://splice.com/plans/ableton-live/about
+  - type: ProToolsIntegration
+    url: https://splice.com/plans/pro-tools/about
+  - type: StudioOneIntegration
+    url: https://splice.com/plans/studio-one/about
+  - type: Blog
+    url: https://splice.com/blog
+  - type: Community
+    url: https://splice.com/community
+  - type: Support
+    url: https://splice.com/help
+  - type: GitHub
+    url: https://github.com/splice
+  - type: Twitter
+    url: https://twitter.com/splice
+  - type: Instagram
+    url: https://www.instagram.com/splice
+  - type: YouTube
+    url: https://www.youtube.com/@splice
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/splice
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
